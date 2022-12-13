@@ -11900,7 +11900,7 @@ __metadata:
     remark-codesandbox: ^0.10.0
     remark-external-links: ^8.0.0
     remark-unwrap-images: ^2.1.0
-    remove-markdown: ^0.3.0
+    remove-markdown: ^0.5.0
     stylelint: ^13.13.1
     stylelint-config-prettier: ^8.0.2
     stylelint-config-recommended: ^5.0.0
@@ -22717,6 +22717,13 @@ __metadata:
   version: 0.3.0
   resolution: "remove-markdown@npm:0.3.0"
   checksum: c3e40122e5057096c04881b8a0bccf41f913e352d106f4debded28bd824daab1d1cda64a67ed6a76064bc0a78d9b6c0feba3f933b44c6ffc50608249524ad2dd
+  languageName: node
+  linkType: hard
+
+"remove-markdown@npm:^0.5.0":
+  version: 0.5.0
+  resolution: "remove-markdown@npm:0.5.0"
+  checksum: c3c9051e7e7d7c5560e7d70a5093704d868fa57d244eb89533fe7bf960bce68e7901197616c6b296cb22f47af6c15a6bce693467f35709fe399379ea1125e536
   languageName: node
   linkType: hard
 
